@@ -27,7 +27,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf"
+                "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Laaksonen Competitive Programmer's Handbook"
@@ -39,10 +41,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf"
+                "file": "MATH 441 Differential Equations/Homework/lastname_441HW01.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 2.0870098039215685
               },
               "icon": "lucide-file-text",
-              "title": "#1 Lecture Note Syntax & Semantics"
+              "title": "lastname_441HW01"
             }
           }
         ],
@@ -216,6 +222,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -228,11 +240,16 @@
   },
   "active": "31fd3b340a7a4659",
   "lastOpenFiles": [
-    "Week Points.md",
+    "Untitled.md",
+    "MATH 441 Differential Equations/Homework/lastname_441HW01.pdf",
+    "MATH 441 Differential Equations/Homework/Untitled.md",
+    "MATH 257 Linear Algebra/Concepts & Theorems W1.pdf",
+    "MATH 257 Linear Algebra/Echelon Form.md",
     "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf",
-    "CS 173 Discrete Structures",
-    "MATH 241/Quadric Surfaces.md",
     "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
+    "MATH 241/Quadric Surfaces.md",
+    "MATH 241/Week Points.md",
+    "CS 173 Discrete Structures",
     "MATH 241/3D sheets.pdf",
     "MATH 241/Series.jpeg",
     "MATH 241/attachments/Pasted image 20260828074104.png",
@@ -240,9 +257,7 @@
     "Text Books/Math/Stewart Calculus 8th Edition.pdf",
     "MATH 241",
     "ECE 110 Intro to Electronics/Constants.md",
-    "MATH 257 Linear Algebra/Concepts & Theorems W1.pdf",
     "ECE 110 Intro to Electronics",
-    "MATH 257 Linear Algebra/Extra Homework W1.pdf",
     "C++/Micro-Patterns.md",
     "C++/The Rule of Five.md",
     "C++/Smart Pointers.md",
@@ -255,7 +270,6 @@
     "C++/Trees.md",
     "C++/Binary Search Trees.md",
     "C++/Tree Traversal Orders.md",
-    "MATH 257 Linear Algebra/Echelon Form.md",
     "MATH 257 Linear Algebra/Gaussian Elimination.md",
     "C++/Order of Destruction for Destructors.md",
     "C++/Untitled.md",
@@ -263,8 +277,6 @@
     "(temp) scheduler.md",
     "C++/Initialization and Assignment Types.md",
     "C++/C++ Errors & Exceptions.md",
-    "C++/Floating-Point Numbers.md",
-    "C++/Stack Frame.md",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page2.jpeg",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page1.jpeg",
     "MATH 441/Wang_441Exam1_page2.jpeg",
