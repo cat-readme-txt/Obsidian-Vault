@@ -1,0 +1,23 @@
+/* =========================================================
+   Obsidian heading colors
+   ========================================================= */
+
+/* Light mode */
+.theme-light {
+    --h1-color: #5b3cc4;
+    --h2-color: #1558b0;
+    --h3-color: #00766c;
+    --h4-color: #3e6f1e;
+    --h5-color: #9a5a00;
+    --h6-color: #a23a63;
+}
+
+/* Dark mode */
+.theme-dark {
+    --h1-color: #c4b5fd;
+    --h2-color: #8ab4f8;
+    --h3-color: #75ddd3;
+    --h4-color: #a6d47b;
+    --h5-color: #f1c27d;
+    --h6-color: #f2a7c4;
+}
