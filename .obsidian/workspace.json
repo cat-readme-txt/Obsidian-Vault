@@ -4,55 +4,120 @@
     "type": "split",
     "children": [
       {
-        "id": "abc68b301ba7c4ee",
-        "type": "tabs",
+        "id": "e96c2e644b73ec04",
+        "type": "split",
         "children": [
           {
-            "id": "e725e3a60d773b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 241/Quadric Surfaces.md",
-                "mode": "preview",
-                "source": true
+            "id": "abc68b301ba7c4ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e725e3a60d773b8e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH 241/Quadric Surfaces.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quadric Surfaces"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Quadric Surfaces"
-            }
+              {
+                "id": "b9a1eae83815b9ea",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Laaksonen Competitive Programmer's Handbook"
+                }
+              },
+              {
+                "id": "31fd3b340a7a4659",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/ECE/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Agarwal and Lang (2005) Foundations of Analog and Digital"
+                }
+              },
+              {
+                "id": "01548553df5d0c2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH 241/Trig Identities.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Trig Identities"
+                }
+              },
+              {
+                "id": "31ecfb6d1f37c777",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 257 Linear Algebra/Concepts & Theorems W2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Concepts & Theorems W2"
+                }
+              },
+              {
+                "id": "63c62fc0a7e28b6b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "#1 Lecture Note Syntax & Semantics"
+                }
+              }
+            ],
+            "currentTab": 5
           },
           {
-            "id": "b9a1eae83815b9ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Laaksonen Competitive Programmer's Handbook"
-            }
-          },
-          {
-            "id": "31fd3b340a7a4659",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH 441 Differential Equations/Homework/lastname_441HW01.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 796,
-                "zoom": 2.0870098039215685
-              },
-              "icon": "lucide-file-text",
-              "title": "lastname_441HW01"
-            }
+            "id": "06e59ff11347a2a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4a1d641b82988d2",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {
+                    "tabs": [
+                      {
+                        "name": "Terminal 1",
+                        "color": "",
+                        "cwd": "/Users/gjimb/Documents/Obsidian Vault",
+                        "bufferSerial": "\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ ls\r\n\u001b[34mC++\u001b[0m                             \u001b[34mECE 110 Intro to Electronics\u001b[0m    \u001b[34mMATH 241\u001b[0m                        \u001b[34mMenu of Contents\r\nCS 173 Discrete Structures\u001b[0m      \u001b[34mExcalidraw\u001b[0m                      \u001b[34mMATH 257 Linear Algebra\u001b[0m         \u001b[34mText Books\r\n\u001b[0mCollege Opportunities.md        \u001b[34mKevin Zhou Physics\u001b[0m              \u001b[34mMATH 441 Differential Equations\r\n\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ git st\u001b[?2004h"
+                      }
+                    ],
+                    "activeIndex": 0
+                  },
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -206,25 +271,54 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Euler-Lagrange Equation.md"
+                "file": "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf"
               },
               "icon": "lucide-info",
-              "title": "File properties for Euler-Lagrange Equation"
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "2f27bb91ef5528ea",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1788035362146-4t6wr0r",
+                      "conversationId": null,
+                      "draftModel": "gpt-5.6-sol"
+                    }
+                  ],
+                  "activeTabId": "tab-1788035362146-4t6wr0r"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "19faba29d87bb78d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 349.203125,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
@@ -235,29 +329,37 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "lean-terminal:Open terminal": false
     }
   },
-  "active": "31fd3b340a7a4659",
+  "active": "f4a1d641b82988d2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "MATH 441 Differential Equations/Homework/lastname_441HW01.pdf",
-    "MATH 441 Differential Equations/Homework/Untitled.md",
-    "MATH 257 Linear Algebra/Concepts & Theorems W1.pdf",
-    "MATH 257 Linear Algebra/Echelon Form.md",
+    "CS 173 Discrete Structures/Rules of Inference (Natural Deduction).md",
+    "MATH 257 Linear Algebra/Concepts & Theorems W2.pdf",
+    "MATH 241/Weak Points.md",
+    "ECE 110 Intro to Electronics/Constants.md",
+    "MATH 241/Trig Identities.md",
+    "Text Books/ECE/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf",
     "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf",
     "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
     "MATH 241/Quadric Surfaces.md",
-    "MATH 241/Week Points.md",
-    "CS 173 Discrete Structures",
-    "MATH 241/3D sheets.pdf",
-    "MATH 241/Series.jpeg",
+    "MATH 241/attachments/Pasted image 20260902121124.png",
     "MATH 241/attachments/Pasted image 20260828074104.png",
-    "MATH 241/attachments",
-    "Text Books/Math/Stewart Calculus 8th Edition.pdf",
-    "MATH 241",
-    "ECE 110 Intro to Electronics/Constants.md",
-    "ECE 110 Intro to Electronics",
+    "MATH 257 Linear Algebra/Concepts & Theorems W10.pdf",
+    "MATH 257 Linear Algebra/(combined) Concepts & Theorems.pdf",
+    "MATH 257 Linear Algebra/(blank) Complete Lecture Notes.pdf",
+    "MATH 257 Linear Algebra/(filled) Complete Lectur Notes.pdf",
+    "CS 173 Discrete Structures/Problem Set 0.pdf",
+    "MATH 257 Linear Algebra/Extra HW W14 Solutions.pdf",
+    "MATH 241/Series.jpeg",
+    "MATH 257 Linear Algebra/Echelon Form.md",
+    "MATH 257 Linear Algebra/Gaussian Elimination.md",
+    "CS 173 Discrete Structures/Well-Formed Formula (wff).md",
+    "Excalidraw/Drawing 2026-08-30 14.58.14.excalidraw.md",
+    "temperat.md",
+    "Text Books/CS/Untitled.md",
+    "MATH 441 Differential Equations/Homework/Untitled.md",
     "C++/Micro-Patterns.md",
     "C++/The Rule of Five.md",
     "C++/Smart Pointers.md",
@@ -270,13 +372,7 @@
     "C++/Trees.md",
     "C++/Binary Search Trees.md",
     "C++/Tree Traversal Orders.md",
-    "MATH 257 Linear Algebra/Gaussian Elimination.md",
     "C++/Order of Destruction for Destructors.md",
-    "C++/Untitled.md",
-    "College Opportunities.md",
-    "(temp) scheduler.md",
-    "C++/Initialization and Assignment Types.md",
-    "C++/C++ Errors & Exceptions.md",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page2.jpeg",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page1.jpeg",
     "MATH 441/Wang_441Exam1_page2.jpeg",
