@@ -4,39 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e96c2e644b73ec04",
+        "id": "596d477f8a3fe57e",
         "type": "split",
         "children": [
           {
             "id": "abc68b301ba7c4ee",
             "type": "tabs",
             "children": [
-              {
-                "id": "e725e3a60d773b8e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MATH 241/Quadric Surfaces.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Quadric Surfaces"
-                }
-              },
-              {
-                "id": "b9a1eae83815b9ea",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Laaksonen Competitive Programmer's Handbook"
-                }
-              },
               {
                 "id": "31fd3b340a7a4659",
                 "type": "leaf",
@@ -50,52 +24,112 @@
                 }
               },
               {
-                "id": "01548553df5d0c2a",
+                "id": "e9442e5a6fac3fac",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/Math/Axler Linear Algebra Done Right.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Axler Linear Algebra Done Right"
+                }
+              },
+              {
+                "id": "828b54738db4166a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/Math/Putnam and Beyond.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Putnam and Beyond"
+                }
+              },
+              {
+                "id": "e5f73db362032a80",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Laaksonen Competitive Programmer's Handbook"
+                }
+              },
+              {
+                "id": "4a60c87987a6535a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MATH 241/Trig Identities.md",
+                    "file": "Check List.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Trig Identities"
+                  "title": "Check List"
                 }
               },
               {
-                "id": "31ecfb6d1f37c777",
+                "id": "060811a65529ccb0",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "MATH 257 Linear Algebra/Concepts & Theorems W2.pdf"
+                    "file": "CS 173 Discrete Structures/Lecture Notes/Lecture Note 3.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Concepts & Theorems W2"
+                  "title": "Lecture Note 3"
                 }
               },
               {
-                "id": "63c62fc0a7e28b6b",
+                "id": "068361faa5568ae9",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf"
+                    "file": "MATH 257 Linear Algebra/Concepts & Theorems W4.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "#1 Lecture Note Syntax & Semantics"
+                  "title": "Concepts & Theorems W4"
+                }
+              },
+              {
+                "id": "67411bcd032499da",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "CS 173 Discrete Structures/Problem Sets/Problem Set 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Problem Set 2"
+                }
+              },
+              {
+                "id": "1f483f40234f0fad",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 441 Differential Equations/Slides/Lecture 01 Slides.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Lecture 01 Slides"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 8
           },
           {
-            "id": "06e59ff11347a2a1",
+            "id": "99fd629fa430eeec",
             "type": "tabs",
             "children": [
               {
-                "id": "f4a1d641b82988d2",
+                "id": "6a5cbca9607b335a",
                 "type": "leaf",
                 "state": {
                   "type": "terminal-view",
@@ -105,7 +139,7 @@
                         "name": "Terminal 1",
                         "color": "",
                         "cwd": "/Users/gjimb/Documents/Obsidian Vault",
-                        "bufferSerial": "\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ ls\r\n\u001b[34mC++\u001b[0m                             \u001b[34mECE 110 Intro to Electronics\u001b[0m    \u001b[34mMATH 241\u001b[0m                        \u001b[34mMenu of Contents\r\nCS 173 Discrete Structures\u001b[0m      \u001b[34mExcalidraw\u001b[0m                      \u001b[34mMATH 257 Linear Algebra\u001b[0m         \u001b[34mText Books\r\n\u001b[0mCollege Opportunities.md        \u001b[34mKevin Zhou Physics\u001b[0m              \u001b[34mMATH 441 Differential Equations\r\n\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ git st\u001b[?2004h"
+                        "bufferSerial": "\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ \u001b[?2004h"
                       }
                     ],
                     "activeIndex": 0
@@ -137,7 +171,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -310,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -333,53 +367,54 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "f4a1d641b82988d2",
+  "active": "6a5cbca9607b335a",
   "lastOpenFiles": [
-    "CS 173 Discrete Structures/Rules of Inference (Natural Deduction).md",
-    "MATH 257 Linear Algebra/Concepts & Theorems W2.pdf",
-    "MATH 241/Weak Points.md",
-    "ECE 110 Intro to Electronics/Constants.md",
-    "MATH 241/Trig Identities.md",
+    "MATH 441 Differential Equations/Slides/Lecture 02 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 01 Slides.pdf",
+    "MIT 18.100A Real Analysis/(complete) Lecture Note.pdf",
+    "MATH 257 Linear Algebra/Concepts & Theorems W4.pdf",
+    "CS 173 Discrete Structures/Lecture Notes/Lecture Note 3.pdf",
+    "Check List.md",
+    "MIT 18.100A Real Analysis",
+    "Text Books/Math/Basic Analysis II.pdf",
+    "Text Books/Math/Basic Analysis I.pdf",
     "Text Books/ECE/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf",
-    "CS 173 Discrete Structures/#1 Lecture Note Syntax & Semantics.pdf",
-    "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 21 Slides.pdf",
+    "MATH 441 Differential Equations/Notes/Brachistochrone Problem.md",
+    "MATH 441 Differential Equations/Slides/Lecture 07 Slides.pdf",
+    "MATH 441 Differential Equations/Notes/Existence and Uniqueness Theorem for a First-Order IVP.md",
+    "Excalidraw/ECE 110/(editable) Extra Credit 1.md",
+    "C++/GNU Make.md",
+    "Excalidraw/ECE 110/(editable) HW2.md",
+    "Excalidraw/ECE 110/(editable) HW3.md",
+    "Excalidraw/Drawing 2026-09-13 17.26.06.excalidraw.md",
+    "Excalidraw/ECE 110/(editable) HW1.md",
+    "ECE 110 Intro to Electronics/Untitled.md",
+    "CS 173 Discrete Structures/Well-Formed Formula (wff).md",
+    "CS 173 Discrete Structures/Rules of Inference (Natural Deduction).md",
     "MATH 241/Quadric Surfaces.md",
+    "C++/Types of Containers.md",
+    "C++/attachments/Pasted image 20260910235946.png",
+    "MATH 241/Weak Points.md",
+    "CS 173 Discrete Structures/Proof Examples.md",
+    "Excalidraw/MATH 441/(editable) Wang_441HW01.md",
+    "Excalidraw/CS 173/(editable) Problem Set 1.md",
+    "Excalidraw/Drawing 2026-09-06 15.34.30.excalidraw.md",
+    "MATH 241/Trig Identities.md",
+    "Excalidraw/Drawing 2026-09-03 19.03.59.excalidraw.md",
+    "ECE 110 Intro to Electronics/Constants.md",
     "MATH 241/attachments/Pasted image 20260902121124.png",
     "MATH 241/attachments/Pasted image 20260828074104.png",
-    "MATH 257 Linear Algebra/Concepts & Theorems W10.pdf",
-    "MATH 257 Linear Algebra/(combined) Concepts & Theorems.pdf",
-    "MATH 257 Linear Algebra/(blank) Complete Lecture Notes.pdf",
-    "MATH 257 Linear Algebra/(filled) Complete Lectur Notes.pdf",
-    "CS 173 Discrete Structures/Problem Set 0.pdf",
-    "MATH 257 Linear Algebra/Extra HW W14 Solutions.pdf",
     "MATH 241/Series.jpeg",
     "MATH 257 Linear Algebra/Echelon Form.md",
     "MATH 257 Linear Algebra/Gaussian Elimination.md",
-    "CS 173 Discrete Structures/Well-Formed Formula (wff).md",
     "Excalidraw/Drawing 2026-08-30 14.58.14.excalidraw.md",
-    "temperat.md",
-    "Text Books/CS/Untitled.md",
-    "MATH 441 Differential Equations/Homework/Untitled.md",
-    "C++/Micro-Patterns.md",
-    "C++/The Rule of Five.md",
-    "C++/Smart Pointers.md",
-    "C++/Catch2 Testing Framework.md",
-    "C++/Toolchain for Bugchecks.md",
-    "C++/Test Coverage Measurement.md",
-    "C++/C++ Notes.md",
-    "C++/Graph Representation Alternatives.md",
-    "C++/Graphs.md",
-    "C++/Trees.md",
-    "C++/Binary Search Trees.md",
-    "C++/Tree Traversal Orders.md",
-    "C++/Order of Destruction for Destructors.md",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page2.jpeg",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page1.jpeg",
     "MATH 441/Wang_441Exam1_page2.jpeg",
     "MATH 441/Wang_441Exam1_page1.jpeg",
     "MATH 441/Homework/Wang_441Exam1_page2.jpeg",
     "MATH 441/Homework/Wang_441Exam1_page1.jpeg",
-    "Excalidraw/Scripts/Downloaded/Printable Layout Wizard.svg",
     "Untitled.canvas"
   ]
 }
