@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "596d477f8a3fe57e",
+        "id": "9e48a33b4e4f9588",
         "type": "split",
         "children": [
           {
@@ -110,26 +110,26 @@
                 }
               },
               {
-                "id": "1f483f40234f0fad",
+                "id": "c2e990d450c6ab27",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "MATH 441 Differential Equations/Slides/Lecture 01 Slides.pdf"
+                    "file": "MATH 441 Differential Equations/Slides/Lecture 02 Slides.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Lecture 01 Slides"
+                  "title": "Lecture 02 Slides"
                 }
               }
             ],
             "currentTab": 8
           },
           {
-            "id": "99fd629fa430eeec",
+            "id": "7f8bb12aff580a67",
             "type": "tabs",
             "children": [
               {
-                "id": "6a5cbca9607b335a",
+                "id": "962ab3db7269474a",
                 "type": "leaf",
                 "state": {
                   "type": "terminal-view",
@@ -139,7 +139,7 @@
                         "name": "Terminal 1",
                         "color": "",
                         "cwd": "/Users/gjimb/Documents/Obsidian Vault",
-                        "bufferSerial": "\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ \u001b[?2004h"
+                        "bufferSerial": "\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ git add .\r\n\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ git add -A\r\n\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ \u001b[?2004h"
                       }
                     ],
                     "activeIndex": 0
@@ -342,14 +342,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "c91ed06071dbe209",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 349.203125,
-    "collapsed": true
+    "width": 349.203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,9 +376,10 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "6a5cbca9607b335a",
+  "active": "962ab3db7269474a",
   "lastOpenFiles": [
     "MATH 441 Differential Equations/Slides/Lecture 02 Slides.pdf",
+    "CS 173 Discrete Structures/Problem Sets/Problem Set 2.pdf",
     "MATH 441 Differential Equations/Slides/Lecture 01 Slides.pdf",
     "MIT 18.100A Real Analysis/(complete) Lecture Note.pdf",
     "MATH 257 Linear Algebra/Concepts & Theorems W4.pdf",
@@ -381,7 +391,6 @@
     "Text Books/ECE/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf",
     "MATH 441 Differential Equations/Slides/Lecture 21 Slides.pdf",
     "MATH 441 Differential Equations/Notes/Brachistochrone Problem.md",
-    "MATH 441 Differential Equations/Slides/Lecture 07 Slides.pdf",
     "MATH 441 Differential Equations/Notes/Existence and Uniqueness Theorem for a First-Order IVP.md",
     "Excalidraw/ECE 110/(editable) Extra Credit 1.md",
     "C++/GNU Make.md",
