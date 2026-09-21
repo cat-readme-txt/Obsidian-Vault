@@ -3,9 +3,7 @@
   "excalidraw-extras",
   "obsidian-excalidraw-plugin",
   "restore-tab-key",
-  "vscode-editor",
   "table-editor-obsidian",
   "realclaudian",
-  "obsidian-git",
-  "lean-terminal"
+  "obsidian-git"
 ]
