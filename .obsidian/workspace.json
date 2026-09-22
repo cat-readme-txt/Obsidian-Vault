@@ -4,135 +4,180 @@
     "type": "split",
     "children": [
       {
-        "id": "abc68b301ba7c4ee",
-        "type": "tabs",
+        "id": "f6d4dff63bd9621e",
+        "type": "split",
         "children": [
           {
-            "id": "31fd3b340a7a4659",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Text Books/ECE/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf"
+            "id": "abc68b301ba7c4ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "31fd3b340a7a4659",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/ECE/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Agarwal and Lang (2005) Foundations of Analog and Digital"
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Agarwal and Lang (2005) Foundations of Analog and Digital"
-            }
+              {
+                "id": "e9442e5a6fac3fac",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/Math/Axler Linear Algebra Done Right.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Axler Linear Algebra Done Right"
+                }
+              },
+              {
+                "id": "828b54738db4166a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/Math/Putnam and Beyond.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Putnam and Beyond"
+                }
+              },
+              {
+                "id": "e5f73db362032a80",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Laaksonen Competitive Programmer's Handbook"
+                }
+              },
+              {
+                "id": "4a60c87987a6535a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Check List.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Check List"
+                }
+              },
+              {
+                "id": "068361faa5568ae9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 257 Linear Algebra/Notes/Concepts & Theorems W4.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Concepts & Theorems W4"
+                }
+              },
+              {
+                "id": "67411bcd032499da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dr. Pal Physics Project/Pasta/00-start-here.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "00-start-here"
+                }
+              },
+              {
+                "id": "c2e990d450c6ab27",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 441 Differential Equations/Slides/Lecture 21 Slides.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Lecture 21 Slides"
+                }
+              },
+              {
+                "id": "f3cbed2103bb02a4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Text Books/ECE/CUDA Programming Guide.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CUDA Programming Guide"
+                }
+              },
+              {
+                "id": "230d916596d0c307",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 257 Linear Algebra/Notes/Concepts & Theorems W5.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Concepts & Theorems W5"
+                }
+              },
+              {
+                "id": "19a397e79620ee7c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 241/3D sheets.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "3D sheets"
+                }
+              }
+            ],
+            "currentTab": 10
           },
           {
-            "id": "e9442e5a6fac3fac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Text Books/Math/Axler Linear Algebra Done Right.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Axler Linear Algebra Done Right"
-            }
-          },
-          {
-            "id": "828b54738db4166a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Text Books/Math/Putnam and Beyond.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Putnam and Beyond"
-            }
-          },
-          {
-            "id": "e5f73db362032a80",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Laaksonen Competitive Programmer's Handbook"
-            }
-          },
-          {
-            "id": "4a60c87987a6535a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Check List.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Check List"
-            }
-          },
-          {
-            "id": "068361faa5568ae9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH 257 Linear Algebra/Notes/Concepts & Theorems W4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Concepts & Theorems W4"
-            }
-          },
-          {
-            "id": "67411bcd032499da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dr. Pal Physics Project/Pasta/00-start-here.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "00-start-here"
-            }
-          },
-          {
-            "id": "c2e990d450c6ab27",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH 441 Differential Equations/Slides/Lecture 21 Slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 21 Slides"
-            }
-          },
-          {
-            "id": "f3cbed2103bb02a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Text Books/ECE/CUDA Programming Guide.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CUDA Programming Guide"
-            }
-          },
-          {
-            "id": "230d916596d0c307",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH 441 Differential Equations/Homework/Wang_441HW01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Wang_441HW01"
-            }
+            "id": "e2254bd4fd1f339f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d3c582e846b0fdc",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {
+                    "tabs": [
+                      {
+                        "name": "Terminal 1",
+                        "color": "",
+                        "cwd": "/Users/gjimb/Documents/Obsidian Vault",
+                        "bufferSerial": "\u001b[32mgjimb@wirelessprv-10-195-85-189\u001b[0m:\u001b[34m~/Documents/Obsidian Vault\u001b[0m$ \u001b[?2004h"
+                      }
+                    ],
+                    "activeIndex": 0
+                  },
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 9
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -358,21 +403,26 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "230d916596d0c307",
+  "active": "7d3c582e846b0fdc",
   "lastOpenFiles": [
-    "CS 173 Discrete Structures/Lecture Notes/Lecture Note 0.pdf",
-    "CS 173 Discrete Structures/Quizes/Solutions/qs01-02.pdf",
-    "CS 173 Discrete Structures/Quizes/Problems/qz01-02.pdf",
-    "CS 173 Discrete Structures/Quizes/Solutions/qs01-01.pdf",
-    "CS 173 Discrete Structures/Quizes/Problems/qz01-01.pdf",
-    "CS 173 Discrete Structures/Quizes/Solutions",
-    "CS 173 Discrete Structures/Quizes/Problems",
-    "CS 173 Discrete Structures/Quizes",
-    "CS 173 Discrete Structures/Lecture Notes/Chapter 1/ln05.pdf",
-    "CS 173 Discrete Structures/Lecture Notes/Chapter 0/ln04.pdf",
-    "CS 173 Discrete Structures/Lecture Notes/Chapter 0/ln03.pdf",
-    "Excalidraw/Drawing 2026-09-20 15.04.51.excalidraw.md",
+    "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
+    "Check List.md",
+    "MATH 257 Linear Algebra/Notes/Concepts & Theorems W4.pdf",
     "Dr. Pal Physics Project/Pasta/00-start-here.md",
+    "MATH 441 Differential Equations/Slides/Lecture 21 Slides.pdf",
+    "Text Books/ECE/CUDA Programming Guide.pdf",
+    "MATH 257 Linear Algebra/Notes/Concepts & Theorems W5.pdf",
+    "CS 173 Discrete Structures/Problem Sets/Problem Set 2.pdf",
+    "Excalidraw/CS 173/(editable) Problem Set 2.md",
+    "Excalidraw/MATH 441/(editable) Wang_441HW02.md",
+    "Excalidraw/ECE 110/(editable) Engineering Ethics Pre Lab.md",
+    "ECE 110 Intro to Electronics/Lab",
+    "ECE 110 Intro to Electronics/Lab/Skill_EngineeringEthics.pdf",
+    "Text Books/Math/Axler Linear Algebra Done Right.pdf",
+    "Opportunities.md",
+    "MATH 441 Differential Equations/Homework/Wang_441HW01.pdf",
+    "CS 173 Discrete Structures/Lecture Notes/Lecture Note 0.pdf",
+    "Excalidraw/Drawing 2026-09-20 15.04.51.excalidraw.md",
     "Dr. Pal Physics Project/Hamiltonian/00-start-here.md",
     "Dr. Pal Physics Project/Pasta/01-tooling.md",
     "Dr. Pal Physics Project/Pasta/02-forces.md",
@@ -385,17 +435,12 @@
     "Dr. Pal Physics Project/Hamiltonian/03-quantum-coda.md",
     "Dr. Pal Physics Project/Hamiltonian/02-structure.md",
     "Untitled.md",
-    "Check List.md",
     "Excalidraw/Drawing 2026-09-14 20.34.50.excalidraw.md",
     "MATH 441 Differential Equations/Notes/Brachistochrone Problem.md",
     "MATH 441 Differential Equations/Notes/Existence and Uniqueness Theorem for a First-Order IVP.md",
     "Excalidraw/ECE 110/(editable) Extra Credit 1.md",
     "C++/GNU Make.md",
     "Excalidraw/ECE 110/(editable) HW2.md",
-    "Excalidraw/ECE 110/(editable) HW3.md",
-    "Excalidraw/Drawing 2026-09-13 17.26.06.excalidraw.md",
-    "Excalidraw/ECE 110/(editable) HW1.md",
-    "ECE 110 Intro to Electronics/Untitled.md",
     "C++/attachments/Pasted image 20260910235946.png",
     "MATH 241/attachments/Pasted image 20260902121124.png",
     "MATH 241/attachments/Pasted image 20260828074104.png",
