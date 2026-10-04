@@ -16,9 +16,9 @@ eDlkFYhb: CS 173 Discrete Structures/Problem Sets/Problem Set 2.pdf#page=1
 RF6DzSds: CS 173 Discrete Structures/Problem Sets/Problem Set 2.pdf#page=2
 
 ## Embedded Files
-5e78911403c79a952186b202af540f8652ba536f: [[Problem Set 2.pdf#page=1]]
+5e78911403c79a952186b202af540f8652ba536f: [[ps02.pdf#page=1]]
 
-382122cfa23a1c9cec7753140266d5f21337e745: [[Problem Set 2.pdf#page=2]]
+382122cfa23a1c9cec7753140266d5f21337e745: [[ps02.pdf#page=2]]
 
 %%
 ## Drawing

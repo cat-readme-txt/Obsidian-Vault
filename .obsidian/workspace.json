@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d4dff63bd9621e",
+        "id": "64d100bf936a2349",
         "type": "split",
         "children": [
           {
@@ -136,26 +136,64 @@
                 }
               },
               {
-                "id": "19a397e79620ee7c",
+                "id": "c596ca9399732f30",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "MATH 241/3D sheets.pdf"
+                    "file": "Text Books/Physics/Mechanics & E&M/Halliday Resnick Krane Physics Volume 2.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "3D sheets"
+                  "title": "Halliday Resnick Krane Physics Volume 2"
+                }
+              },
+              {
+                "id": "4705cc82c5db73b1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 441 Differential Equations/Homework/lastname_441HW03.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "lastname_441HW03"
+                }
+              },
+              {
+                "id": "996e7fa5397e5ea6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MATH 441 Differential Equations/Homework/Wang_441HW03.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Wang_441HW03"
+                }
+              },
+              {
+                "id": "65750aecfa51be00",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dr. Pal Physics Project/Pasta/04-pasta.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "04-pasta"
                 }
               }
             ],
-            "currentTab": 10
+            "currentTab": 13
           },
           {
-            "id": "e2254bd4fd1f339f",
+            "id": "76a4dc40b4bf1d11",
             "type": "tabs",
             "children": [
               {
-                "id": "7d3c582e846b0fdc",
+                "id": "f4f9ebc80298acae",
                 "type": "leaf",
                 "state": {
                   "type": "terminal-view",
@@ -341,22 +379,10 @@
             "id": "2f27bb91ef5528ea",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1788035362146-4t6wr0r",
-                      "conversationId": null,
-                      "draftModel": "gpt-5.6-sol"
-                    }
-                  ],
-                  "activeTabId": "tab-1788035362146-4t6wr0r"
-                }
-              },
-              "icon": "lucide-ghost",
-              "title": "claudian-view"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -399,29 +425,39 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "vscode-editor:Create Code File": false,
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "7d3c582e846b0fdc",
+  "active": "f4f9ebc80298acae",
   "lastOpenFiles": [
-    "Text Books/CS/Laaksonen Competitive Programmer's Handbook.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 13 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 12 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 01 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 02 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 03 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 04 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 05 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 06 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 07 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 08 Slides.pdf",
+    "MATH 441 Differential Equations/Slides/Lecture 09 Slides.pdf",
+    "MATH 441 Differential Equations/Notes/Existence and Uniqueness Theorem for a First-Order IVP.md",
+    "MATH 441 Differential Equations/Notes/Brachistochrone Problem.md",
+    "MATH 441 Differential Equations/Notes/Existence and Uniqueness Theorem for First-Order Linear Equations.md",
+    "MATH 441 Differential Equations/Notes/Bernoulli Equations.md",
+    "Excalidraw/ECE 110/(editable) HW5.md",
+    "MATH 241/Series.jpeg",
+    "questions.md",
+    "Excalidraw/Drawing 2026-09-28 19.21.06.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-27 14.53.17.excalidraw.md",
+    "Excalidraw/MATH 441/(editable) Wang_441HW05.md",
+    "Excalidraw/ECE 110/(editable) HW4.md",
     "Check List.md",
-    "MATH 257 Linear Algebra/Notes/Concepts & Theorems W4.pdf",
     "Dr. Pal Physics Project/Pasta/00-start-here.md",
-    "MATH 441 Differential Equations/Slides/Lecture 21 Slides.pdf",
-    "Text Books/ECE/CUDA Programming Guide.pdf",
-    "MATH 257 Linear Algebra/Notes/Concepts & Theorems W5.pdf",
-    "CS 173 Discrete Structures/Problem Sets/Problem Set 2.pdf",
     "Excalidraw/CS 173/(editable) Problem Set 2.md",
     "Excalidraw/MATH 441/(editable) Wang_441HW02.md",
     "Excalidraw/ECE 110/(editable) Engineering Ethics Pre Lab.md",
-    "ECE 110 Intro to Electronics/Lab",
-    "ECE 110 Intro to Electronics/Lab/Skill_EngineeringEthics.pdf",
-    "Text Books/Math/Axler Linear Algebra Done Right.pdf",
     "Opportunities.md",
-    "MATH 441 Differential Equations/Homework/Wang_441HW01.pdf",
-    "CS 173 Discrete Structures/Lecture Notes/Lecture Note 0.pdf",
     "Excalidraw/Drawing 2026-09-20 15.04.51.excalidraw.md",
     "Dr. Pal Physics Project/Hamiltonian/00-start-here.md",
     "Dr. Pal Physics Project/Pasta/01-tooling.md",
@@ -431,20 +467,9 @@
     "Dr. Pal Physics Project/Pasta/05-coda.md",
     "Dr. Pal Physics Project/Pasta/06-checklist.md",
     "Dr. Pal Physics Project/Hamiltonian/01-tooling.md",
-    "Excalidraw/Drawing 2026-09-17 20.40.38.excalidraw.md",
-    "Dr. Pal Physics Project/Hamiltonian/03-quantum-coda.md",
-    "Dr. Pal Physics Project/Hamiltonian/02-structure.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2026-09-14 20.34.50.excalidraw.md",
-    "MATH 441 Differential Equations/Notes/Brachistochrone Problem.md",
-    "MATH 441 Differential Equations/Notes/Existence and Uniqueness Theorem for a First-Order IVP.md",
-    "Excalidraw/ECE 110/(editable) Extra Credit 1.md",
-    "C++/GNU Make.md",
-    "Excalidraw/ECE 110/(editable) HW2.md",
     "C++/attachments/Pasted image 20260910235946.png",
     "MATH 241/attachments/Pasted image 20260902121124.png",
     "MATH 241/attachments/Pasted image 20260828074104.png",
-    "MATH 241/Series.jpeg",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page2.jpeg",
     "MATH 441 Differential Equations/Exams/Wang_441Exam1_page1.jpeg",
     "MATH 441/Wang_441Exam1_page2.jpeg",

@@ -14,7 +14,7 @@ tags: [excalidraw]
 UKc5UPc1: CS 173 Discrete Structures/Problem Set 1.pdf#page=1
 
 ## Embedded Files
-d4ae6b52283cf87673943cdee0bc28844766afa9: [[Problem Set 1.pdf#page=1]]
+d4ae6b52283cf87673943cdee0bc28844766afa9: [[ps01.pdf#page=1]]
 
 %%
 ## Drawing
